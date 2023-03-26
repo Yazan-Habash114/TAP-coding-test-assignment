@@ -8,4 +8,4 @@ const findMissedNumber = arr => {
     return (sum - accumulative);
 };
 
-console.log(findMissedNumber([9, 6, 4, 2, 3, 5, 7, 0, 1]));
+console.log(findMissedNumber([9, 6, 4, 2, 3, 5, 7, 0, 1]));	// Output: 8
