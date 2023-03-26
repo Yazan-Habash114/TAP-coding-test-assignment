@@ -13,7 +13,7 @@ HTML, CSS and JavaScript assignment to solve two challenges in TAP coding test. 
 </a>
 
 ## GitHub page link
-You can visit the deployed project using GitHub pages from [here](Link will be available soon)
+You can visit the deployed project using GitHub pages from [here](https://yazan-habash114.github.io/TAP-coding-test-assignment/Challenge%20(1)/)
 
 ## Author
 [Yazan Habash](https://github.com/Yazan-Habash114)
